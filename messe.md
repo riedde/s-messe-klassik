@@ -6,6 +6,7 @@ language: de
 narrator: Deutsch Female
 import: ./config.md
 link: ./style.css
+icon: https://wcms.itz.uni-halle.de/download.php?down=57357&elem=3333420
 tags: kassik, gattung, liturgie
 -->
 
@@ -46,34 +47,380 @@ Diese Vereinheitlichung hatte weitreichende Auswirkungen auf die musikalische Pr
 
 Das sogenannte *Ordinarium* (das "Regelmäßige"/"Wiederkehrende") bilden die Texte, die unveränderlich sind und daher immer gleich bleiben.
 
-Das Ordinarium besteht aus **Kyrie**, **Gloria**, **Credo**, **Sanctus**, **Agnus Dei**. Auch in der musikalischen Messe sind diese Teile vorhanden. In der kleineren musikalischen Form, der *Missa brevis* (*breve* = „kurz“) ist das **Credo** nicht enthalten.
+Das Ordinarium besteht aus **Kyrie**, **Gloria**, **Credo**, **Sanctus**, **Agnus Dei**. Auch in der musikalischen Messe sind diese Teile vorhanden.
+
+**Besonderheit:** In der kleineren musikalischen Form, der *Missa brevis* (*breve* = „kurz“) ist das **Credo** nicht auskomponiert.
 
 ### Kyrie
-|         |        |
-| :------ | :----- |
-| Kyrie eleison.<br>Christe eleison.<br>Kyrie eleison. | Herr, erbarme dich.<br>Christus, erbarme dich.<br>Herr, erbarme dich. |
+
+<lia-keep>
+<table>
+    <tr>
+        <th width="50%">Altgriechisch</th>
+        <th width="50%">Deutsch</th>
+    </tr>
+    <tr>
+        <td>Kyrie eleison.</td>
+        <td>Herr, erbarme dich.</td>
+    </tr>
+    <tr>
+        <td>Christe eleison.</td>
+        <td>Christus, erbarme dich.</td>
+    </tr>
+    <tr>
+        <td>Kyrie eleison.</td>
+        <td>Herr, erbarme dich.</td>
+    </tr>
+</table>
+</lia-keep>
 
 ### Gloria
-|         |        |
-| :------ | :----- |
-| Gloria in excelsis Deo<br>et in terra pax hominibus bonae voluntatis.<br>Laudamus te,<br>benedicimus te,<br>adoramus te,<br>glorificamus te.<br>Gratias agimus tibi propter magnam gloriam tuam,<br>Domine Deus, Rex caelestis,<br>Deus pater omnipotens.<br>Domine Fili unigenite, Iesu Christe,<br>Domine Deus, Agnus Dei, Filius Patris;<br>qui tollis peccata mundi,<br>miserere nobis;<br>qui tollis peccata mundi,<br>suscipe deprecationem nostram;<br>qui sedes ad dexteram Patris,<br>miserere nobis.<br>Quoniam Tu solus Sanctus,<br>Tu solus Dominus,<br>Tu solus Altissimus,<br>Iesu Christe,<br>cum Sancto Spiritu<br>in gloria Dei Patris. Amen. | Ehre sei Gott in der Höhe<br>und Friede auf Erden den Menschen seiner Gnade.<br>Wir loben dich,<br>wir preisen dich,<br>wir beten dich an,<br>wir rühmen dich.<br>Wir danken dir, denn groß ist deine Herrlichkeit:<br>Herr und Gott, König des Himmels,<br>Gott und Vater, Herrscher über das All<br>Herr, eingeborener Sohn, Jesus Christus.<br>Herr und Gott, Lamm Gottes, Sohn des Vaters,<br>der du nimmst hinweg die Sünde der Welt:<br>erbarme dich unser;<br>der du nimmst hinweg die Sünde der Welt:<br>nimm an unser Gebet;<br>du sitzest zur Rechten des Vaters:<br>erbarme dich unser.<br>Denn du allein bist der Heilige,<br>du allein der Herr,<br>du allein der Höchste,<br>Jesus Christus,<br>mit dem Heiligen Geist,<br>zur Ehre Gottes des Vaters. Amen. |
+
+<lia-keep>
+<table>
+    <tr>
+        <th width="50%">Lateinisch</th>
+        <th width="50%">Deutsch</th>
+    </tr>
+    <tr>
+        <td>Gloria in excelsis Deo</td>
+        <td>Ehre sei Gott in der Höhe</td>
+    </tr>
+    <tr>
+        <td>et in terra pax hominibus bonae voluntatis.</td>
+        <td>und Friede auf Erden den Menschen seiner Gnade.</td>
+    </tr>
+    <tr>
+        <td>Laudamus te,</td>
+        <td>Wir loben dich,</td>
+    </tr>
+    <tr>
+        <td>benedicimus te,</td>
+        <td>wir preisen dich,</td>
+    </tr>
+    <tr>
+        <td>adoramus te,</td>
+        <td>wir beten dich an,</td>
+    </tr>
+    <tr>
+        <td>glorificamus te.</td>
+        <td>wir rühmen dich.</td>
+    </tr>
+    <tr>
+        <td>Gratias agimus tibi propter magnam gloriam tuam,</td>
+        <td>Wir danken dir, denn groß ist deine Herrlichkeit:</td>
+    </tr>
+    <tr>
+        <td>Domine Deus, Rex caelestis,</td>
+        <td>Herr und Gott, König des Himmels,</td>
+    </tr>
+    <tr>
+        <td>Deus pater omnipotens.</td>
+        <td>Gott und Vater, Herrscher über das All</td>
+    </tr>
+    <tr>
+        <td>Domine Fili unigenite, Iesu Christe,</td>
+        <td>Herr, eingeborener Sohn, Jesus Christus.</td>
+    </tr>
+    <tr>
+        <td>Domine Deus, Agnus Dei, Filius Patris;</td>
+        <td>Herr und Gott, Lamm Gottes, Sohn des Vaters,</td>
+    </tr>
+    <tr>
+        <td>qui tollis peccata mundi,</td>
+        <td>der du nimmst hinweg die Sünde der Welt:</td>
+    </tr>
+    <tr>
+        <td>miserere nobis;</td>
+        <td>erbarme dich unser;</td>
+    </tr>
+    <tr>
+        <td>qui tollis peccata mundi,</td>
+        <td>der du nimmst hinweg die Sünde der Welt:</td>
+    </tr>
+    <tr>
+        <td>suscipe deprecationem nostram;</td>
+        <td>nimm an unser Gebet;</td>
+    </tr>
+    <tr>
+        <td>qui sedes ad dexteram Patris,</td>
+        <td>du sitzest zur Rechten des Vaters:</td>
+    </tr>
+    <tr>
+        <td>miserere nobis.</td>
+        <td>erbarme dich unser.</td>
+    </tr>
+    <tr>
+        <td>Quoniam Tu solus Sanctus,</td>
+        <td>Denn du allein bist der Heilige,</td>
+    </tr>
+    <tr>
+        <td>Tu solus Dominus,</td>
+        <td>du allein der Herr,</td>
+    </tr>
+    <tr>
+        <td>Tu solus Altissimus,</td>
+        <td>du allein der Höchste,</td>
+    </tr>
+    <tr>
+        <td>Iesu Christe,</td>
+        <td>Jesus Christus,</td>
+    </tr>
+    <tr>
+        <td>cum Sancto Spiritu</td>
+        <td>mit dem Heiligen Geist,</td>
+    </tr>
+    <tr>
+        <td>in gloria Dei Patris. Amen.</td>
+        <td>zur Ehre Gottes des Vaters. Amen.</td>
+    </tr>
+</table>
+</lia-keep>
 
 ### Credo
 
-|         |        |
-| :------ | :----- |
-| Credo in unum Deum,<br>Patrem omnipotentem,<br>factorem caeli et terrae,<br>visibilium omnium et invisibilium.<br>Et in unum Dominum Jesum Christum,<br>Filium Dei unigenitum,<br>et ex Patre natum ante omnia saecula.<br>Deum de Deo, lumen de lumine,<br>Deum verum de Deo vero,<br>genitum, non factum,<br>consubstantialem Patri:<br>per quem omnia facta sunt.<br>Qui propter nos homines<br>et propter nostram salutem<br>descendit de caelis.<br>Et incarnatus est de Spiritu Sancto<br>ex Maria Virgine:<br>et homo factus est.<br>Crucifixus etiam pro nobis<br>sub Pontio Pilato;<br>passus et sepultus est,<br>et resurrexit tertia die<br>secundum Scripturas,<br>et ascendit in caelum,<br>sedet ad dexteram Patris.<br>Et iterum venturus est cum gloria,<br>judicare vivos et mortuos,<br>cuius regni non erit finis.<br>Et in Spiritum Sanctum,<br>Dominum et vivificantem:<br>qui ex Patre Filioque procedit.<br>Qui cum Patre et Filio,<br>simul adoratur et conglorificatur:<br>qui locutus est per prophetas.<br>Et unam, sanctam, catholicam<br>et apostolicam Ecclesiam.<br>Confiteor unum baptisma<br>in remissionem peccatorum.<br>Et expecto resurrectionem mortuorum,<br>et vitam venturi saeculi. Amen. | Wir glauben an den einen Gott,<br>den Vater, den Allmächtigen,<br>der alles geschaffen hat, Himmel und Erde,<br>die sichtbare und die unsichtbare Welt.<br>Und an den einen Herrn Jesus Christus,<br>Gottes eingeborenen Sohn,<br>aus dem Vater geboren vor aller Zeit:<br>Gott von Gott, Licht vom Licht,<br>wahrer Gott vom wahren Gott,<br>gezeugt, nicht geschaffen,<br>eines Wesens mit dem Vater:<br>durch ihn ist alles geschaffen.<br>Für uns Menschen und zu unserem Heil<br>ist er vom Himmel gekommen,<br>hat Fleisch angenommen<br>durch den Heiligen Geist<br>von der Jungfrau Maria<br>und ist Mensch geworden.<br>Er wurde für uns gekreuzigt<br>unter Pontius Pilatus,<br>hat gelitten und ist begraben worden,<br>ist am dritten Tage auferstanden<br>nach der Schrift<br>und aufgefahren in den Himmel.<br>Er sitzt zur Rechten des Vaters<br>und wird wiederkommen in Herrlichkeit,<br>zu richten die Lebenden und die Toten;<br>seiner Herrschaft wird kein Ende sein.<br>Wir glauben an den Heiligen Geist,<br>der Herr ist und lebendig macht,<br>der aus dem Vater und dem Sohn hervorgeht,<br>der mit dem Vater und dem Sohn<br>angebetet und verherrlicht wird,<br>der gesprochen hat durch die Propheten;<br>und die eine, heilige, katholische<br>und apostolische Kirche.<br>Wir bekennen die eine Taufe<br>zur Vergebung der Sünden.<br>Wir erwarten die Auferstehung der Toten<br>und das Leben der kommenden Welt. Amen. |
+<lia-keep>
+<table>
+    <tr>
+        <th width="50%">Lateinisch</th>
+        <th width="50%">Deutsch</th>
+    </tr>
+    <tr>
+        <td>Credo in unum Deum,</td>
+        <td>Wir glauben an den einen Gott,</td>
+    </tr>
+    <tr>
+        <td>Patrem omnipotentem,</td>
+        <td>den Vater, den Allmächtigen,</td>
+    </tr>
+    <tr>
+        <td>factorem caeli et terrae,</td>
+        <td>der alles geschaffen hat, Himmel und Erde,</td>
+    </tr>
+    <tr>
+        <td>visibilium omnium et invisibilium.</td>
+        <td>die sichtbare und die unsichtbare Welt.</td>
+    </tr>
+    <tr>
+        <td>Et in unum Dominum Jesum Christum,</td>
+        <td>Und an den einen Herrn Jesus Christus,</td>
+    </tr>
+    <tr>
+        <td>Filium Dei unigenitum,</td>
+        <td>Gottes eingeborenen Sohn,</td>
+    </tr>
+    <tr>
+        <td>et ex Patre natum ante omnia saecula.</td>
+        <td>aus dem Vater geboren vor aller Zeit:</td>
+    </tr>
+    <tr>
+        <td>Deum de Deo, lumen de lumine,</td>
+        <td>Gott von Gott, Licht vom Licht,</td>
+    </tr>
+    <tr>
+        <td>Deum verum de Deo vero,</td>
+        <td>wahrer Gott vom wahren Gott,</td>
+    </tr>
+    <tr>
+        <td>genitum, non factum,</td>
+        <td>gezeugt, nicht geschaffen,</td>
+    </tr>
+    <tr>
+        <td>consubstantialem Patri:</td>
+        <td>eines Wesens mit dem Vater:</td>
+    </tr>
+    <tr>
+        <td>per quem omnia facta sunt.</td>
+        <td>durch ihn ist alles geschaffen.</td>
+    </tr>
+    <tr>
+        <td>Qui propter nos homines</td>
+        <td>Für uns Menschen</td>
+    </tr>
+    <tr>
+        <td>et propter nostram salutem</td>
+        <td>und zu unserem Heil</td>
+    </tr>
+    <tr>
+        <td>descendit de caelis.</td>
+        <td>ist er vom Himmel gekommen,</td>
+    </tr>
+    <tr>
+        <td>Et incarnatus est de Spiritu Sancto</td>
+        <td>hat Fleisch angenommen durch den Heiligen Geist</td>
+    </tr>
+    <tr>
+        <td>ex Maria Virgine:</td>
+        <td>von der Jungfrau Maria</td>
+    </tr>
+    <tr>
+        <td>et homo factus est.</td>
+        <td>und ist Mensch geworden.</td>
+    </tr>
+    <tr>
+        <td>Crucifixus etiam pro nobis</td>
+        <td>Er wurde für uns gekreuzigt</td>
+    </tr>
+    <tr>
+        <td>sub Pontio Pilato;</td>
+        <td>unter Pontius Pilatus,</td>
+    </tr>
+    <tr>
+        <td>passus et sepultus est,</td>
+        <td>hat gelitten und ist begraben worden,</td>
+    </tr>
+    <tr>
+        <td>et resurrexit tertia die</td>
+        <td>ist am dritten Tage auferstanden</td>
+    </tr>
+    <tr>
+        <td>secundum Scripturas,</td>
+        <td>nach der Schrift</td>
+    </tr>
+    <tr>
+        <td>et ascendit in caelum,</td>
+        <td>und aufgefahren in den Himmel.</td>
+    </tr>
+    <tr>
+        <td>sedet ad dexteram Patris.</td>
+        <td>Er sitzt zur Rechten des Vaters</td>
+    </tr>
+    <tr>
+        <td>Et iterum venturus est cum gloria,</td>
+        <td>und wird wiederkommen in Herrlichkeit,</td>
+    </tr>
+    <tr>
+        <td>judicare vivos et mortuos,</td>
+        <td>zu richten die Lebenden und die Toten;</td>
+    </tr>
+    <tr>
+        <td>cuius regni non erit finis.</td>
+        <td>seiner Herrschaft wird kein Ende sein.</td>
+    </tr>
+    <tr>
+        <td>Et in Spiritum Sanctum,</td>
+        <td>Wir glauben an den Heiligen Geist,</td>
+    </tr>
+    <tr>
+        <td>Dominum et vivificantem:</td>
+        <td>der Herr ist und lebendig macht,</td>
+    </tr>
+    <tr>
+        <td>qui ex Patre Filioque procedit.</td>
+        <td>der aus dem Vater und dem Sohn hervorgeht,</td>
+    </tr>
+    <tr>
+        <td>Qui cum Patre et Filio,</td>
+        <td>der mit dem Vater und dem Sohn</td>
+    </tr>
+    <tr>
+        <td>simul adoratur et conglorificatur:</td>
+        <td>angebetet und verherrlicht wird,</td>
+    </tr>
+    <tr>
+        <td>qui locutus est per prophetas.</td>
+        <td>der gesprochen hat durch die Propheten;</td>
+    </tr>
+    <tr>
+        <td>Et unam, sanctam, catholicam</td>
+        <td>und die eine, heilige, katholische</td>
+    </tr>
+    <tr>
+        <td>et apostolicam Ecclesiam.</td>
+        <td>und apostolische Kirche.</td>
+    </tr>
+    <tr>
+        <td>Confiteor unum baptisma</td>
+        <td>Wir bekennen die eine Taufe</td>
+    </tr>
+    <tr>
+        <td>in remissionem peccatorum.</td>
+        <td>zur Vergebung der Sünden.</td>
+    </tr>
+    <tr>
+        <td>Et expecto resurrectionem mortuorum,</td>
+        <td>Wir erwarten die Auferstehung der Toten</td>
+    </tr>
+    <tr>
+        <td>et vitam venturi saeculi. Amen.</td>
+        <td>und das Leben der kommenden Welt. Amen.</td>
+    </tr>
+</table>
+</lia-keep>
 
-Vertonung des ![Credo III](https://gregobase.selapa.net/chant.php?id=749) (Vaticanum)
+-----
+
+Gregorianische Vertonung, siehe z. B. [Credo III](https://gregobase.selapa.net/chant.php?id=749) (Vaticanum)
+
 ### Sanctus
-|         |        |
-| :------ | :----- |
-| Sanctus, sanctus, sanctus<br>Dominus Deus Sabaoth.<br>Pleni sunt caeli et terra<br>gloria tua.<br>Hosanna in excelsis.<br>Benedictus<br>qui venit in nomine Domini.<br>Hosanna in excelsis. | Heilig, heilig, heilig<br>Gott, Herr aller Mächte und Gewalten.<br>Erfüllt sind Himmel und Erde<br>von deiner Herrlichkeit.<br>Hosanna in der Höhe.<br>Hochgelobt sei,<br>der da kommt im Namen des Herrn.<br>Hosanna in der Höhe. |
+
+<lia-keep>
+<table>
+    <tr>
+        <th width="50%">Lateinisch</th>
+        <th width="50%">Deutsch</th>
+    </tr>
+    <tr>
+        <td>Sanctus, sanctus, sanctus</td>
+        <td>Heilig, heilig, heilig</td>
+    </tr>
+    <tr>
+        <td>Dominus Deus Sabaoth.</td>
+        <td>Gott, Herr aller Mächte und Gewalten.</td>
+    </tr>
+    <tr>
+        <td>Pleni sunt caeli et terra</td>
+        <td>Erfüllt sind Himmel und Erde</td>
+    </tr>
+    <tr>
+        <td>gloria tua.</td>
+        <td>von deiner Herrlichkeit.</td>
+    </tr>
+    <tr>
+        <td>Hosanna in excelsis.</td>
+        <td>Hosanna in der Höhe.</td>
+    </tr>
+    <tr>
+        <td>Benedictus</td>
+        <td>Hochgelobt sei,</td>
+    </tr>
+    <tr>
+        <td>qui venit in nomine Domini.</td>
+        <td>der da kommt im Namen des Herrn.</td>
+    </tr>
+    <tr>
+        <td>Hosanna in excelsis.</td>
+        <td>Hosanna in der Höhe.</td>
+    </tr>
+</table>
+</lia-keep>
 
 ### Agnus Dei
-|         |        |
-| :------ | :----- |
-| Agnus Dei qui tollis peccata mundi, miserere nobis.<br>Agnus Dei qui tollis peccata mundi, miserere nobis.<br>Agnus Dei qui tollis peccata mundi, dona nobis pacem. | Lamm Gottes, du nimmst hinweg die Sünde der Welt, erbarme dich unser.<br>Lamm Gottes, du nimmst hinweg die Sünde der Welt, erbarme dich unser.<br>Lamm Gottes, du nimmst hinweg die Sünde der Welt, gib uns deinen Frieden. |
+
+<lia-keep>
+<table>
+    <tr>
+        <th width="50%">Lateinisch</th>
+        <th width="50%">Deutsch</th>
+    </tr>
+    <tr>
+        <td>Agnus Dei qui tollis peccata mundi, miserere nobis.</td>
+        <td>Lamm Gottes, du nimmst hinweg die Sünde der Welt, erbarme dich unser.</td>
+    </tr>
+    <tr>
+        <td>Agnus Dei qui tollis peccata mundi, miserere nobis.</td>
+        <td>Lamm Gottes, du nimmst hinweg die Sünde der Welt, erbarme dich unser.</td>
+    </tr>
+    <tr>
+        <td>Agnus Dei qui tollis peccata mundi, dona nobis pacem.</td>
+        <td>Lamm Gottes, du nimmst hinweg die Sünde der Welt, gib uns deinen Frieden.</td>
+    </tr>
+</table>
+</lia-keep>
+
+----
+
+**Besonderheit:** Bei der *Missa de profunctis* ("Requiem" / "Totenmesse") wird bei der dritten Wiederholung folgender Text verwendet: *dona eis requiem* ("gib ihnen deinen Frieden")
 
 ## Ablauf der Eucharistiefeier
 
