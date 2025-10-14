@@ -11,7 +11,7 @@ comment:  Common metadata for all LiaScript courses in the folder
 
 import: https://raw.githubusercontent.com/LiaTemplates/citations/main/README.md
 
-link: style.css
+link: ./style.css
 
 link:     https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap
 
