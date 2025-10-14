@@ -5,7 +5,8 @@ version: 1.0.0
 language: de
 narrator: Deutsch Female
 import: ./config.md
-tags: barock, begriffsgeschichte
+link: ./style.css
+tags: kassik, gattung, liturgie
 -->
 
 # Die Messe
@@ -145,8 +146,10 @@ Einen Überblick über die Struktur des Kirchenjahres findet sich bei Lumma in K
 
 ### Weihnachtskreis
 
+*(Tabelle zitiert nach Lumma[^1], S. 137.)*
+
 <lia-keep>
-<table style="width: 100%;">
+<table>
     <tr>
       <th style="width: 30%;">Zeitpunkt</th>
       <th style="width: 60%;">Bezeichnung</th>
@@ -202,10 +205,14 @@ Einen Überblick über die Struktur des Kirchenjahres findet sich bei Lumma in K
 </table>
 </lia-keep>
 
-### Herrenfeste im Zusammenhang mit Weihnachten
+[^1]: Liborius Olaf Lumma: *Kapitel 10 Kirchenjahr*, in: Ders. *Crashkurs Liturgie*, Regensburg ^5^2024, S. 128–143.
+
+#### Herrenfeste im Zusammenhang mit Weihnachten
+
+*(Tabelle zitiert nach Lumma[^1], S. 137.)*
 
 <lia-keep>
-<table style="width: 100%;">
+<table>
     <tr>
         <th style="width: 30%;">Zeitpunkt</th>
         <th style="width: 60%;">Bezeichnung</th>
@@ -221,10 +228,14 @@ Einen Überblick über die Struktur des Kirchenjahres findet sich bei Lumma in K
 </table>
 </lia-keep>
 
+[^1]: Liborius Olaf Lumma: *Kapitel 10 Kirchenjahr*, in: Ders. *Crashkurs Liturgie*, Regensburg ^5^2024, S. 128–143.
+
 ### Osterkreis
 
+*(Tabelle zitiert nach Lumma[^1], S. 129.)*
+
 <lia-keep>
-<table style="width: 100%;">
+<table>
     <tr>
         <th width="40%">Zeitpunkt</th>
         <th width="60%">Bezeichnung</th>
@@ -322,8 +333,6 @@ Einen Überblick über die Struktur des Kirchenjahres findet sich bei Lumma in K
         <td>Hochfest des Heiligsten Herzen Jesu, seit dem 17./19. Jhd.</td>
     </tr>
 </table>
-<lia-keep>
+</lia-keep>
 
 [^1]: Liborius Olaf Lumma: *Kapitel 10 Kirchenjahr*, in: Ders. *Crashkurs Liturgie*, Regensburg ^5^2024, S. 128–143.
-  
-  Tabelle zitiert nach Lumma, S. 129.

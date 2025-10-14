@@ -3,6 +3,7 @@
   --mlu-violet: #993c8c;
   --main-mlu-color: var(--mlu-green);
   --main-accent-color: var(--mlu-violet);
+  --main-mlu-color-table: #f2f2f2;
 }
 
 body, h1, h2, h3, h4, h5, h6 {
@@ -73,7 +74,7 @@ h1.lia-h1 {
   border-color: var(--main-mlu-color) !important;
 }
 
-.lia-link, .lia-active {
+.lia-link, .lia-active, table a {
   color: var(--main-accent-color) !important
 }
 
@@ -95,5 +96,5 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: var(--main-mlu-color);
+  background-color: var(--main-mlu-color-table);
 }
