@@ -7,7 +7,7 @@ narrator: Deutsch Female
 import: ./config.md
 link: ./style.css
 icon: https://wcms.itz.uni-halle.de/download.php?down=57357&elem=3333420
-tags: kassik, gattung, liturgie
+tags: gattung, liturgie
 -->
 
 # Die Messe
@@ -43,13 +43,13 @@ Nach dem Konzil wurden wichtige liturgische Bücher überarbeitet und vereinheit
 
 Diese Vereinheitlichung hatte weitreichende Auswirkungen auf die musikalische Praxis, da lokale liturgische Traditionen und damit verbundene musikalische Eigenarten zugunsten einer einheitlichen römischen Liturgie aufgegeben werden mussten.
 
-## Die wichtigsten Texte des Ordinarium missae
+## Die wichtigsten Texte des *Ordinarium missae*
 
 Das sogenannte *Ordinarium* (das "Regelmäßige"/"Wiederkehrende") bilden die Texte, die unveränderlich sind und daher immer gleich bleiben.
 
-Das Ordinarium besteht aus **Kyrie**, **Gloria**, **Credo**, **Sanctus**, **Agnus Dei**. Auch in der musikalischen Messe sind diese Teile vorhanden.
+Das Ordinarium besteht aus **Kyrie**, **Gloria**, **Credo**, **Sanctus**, **Agnus Dei**. Sie bilden die Grundlage für die Messe als musikalische Form, in der ebendiese Texte vertont sind.
 
-**Besonderheit:** In der kleineren musikalischen Form, der *Missa brevis* (*breve* = „kurz“) ist das **Credo** nicht auskomponiert.
+**Besonderheit:** In der kleineren musikalischen Form, der *Missa brevis* (*breve* = „kurz“) ist das **Credo** nicht enthalten bzw. auskomponiert.
 
 ### Kyrie
 
@@ -404,74 +404,243 @@ Gregorianische Vertonung, siehe z. B. [Credo III](https://gregobase.selapa.net/c
         <th width="50%">Deutsch</th>
     </tr>
     <tr>
-        <td>Agnus Dei qui tollis peccata mundi, miserere nobis.</td>
-        <td>Lamm Gottes, du nimmst hinweg die Sünde der Welt, erbarme dich unser.</td>
+        <td>Agnus Dei qui tollis peccata mundi,</td>
+        <td>Lamm Gottes, du nimmst hinweg die Sünde der Welt,</td>
     </tr>
     <tr>
-        <td>Agnus Dei qui tollis peccata mundi, miserere nobis.</td>
-        <td>Lamm Gottes, du nimmst hinweg die Sünde der Welt, erbarme dich unser.</td>
+        <td>miserere nobis.</td>
+        <td>erbarme dich unser.</td>
     </tr>
     <tr>
-        <td>Agnus Dei qui tollis peccata mundi, dona nobis pacem.</td>
-        <td>Lamm Gottes, du nimmst hinweg die Sünde der Welt, gib uns deinen Frieden.</td>
+        <td>Agnus Dei qui tollis peccata mundi,</td>
+        <td>Lamm Gottes, du nimmst hinweg die Sünde der Welt,</td>
+    </tr>
+    <tr>
+        <td>miserere nobis.</td>
+        <td>erbarme dich unser.</td>
+    </tr>
+    <tr>
+        <td>Agnus Dei qui tollis peccata mundi,</td>
+        <td>Lamm Gottes, du nimmst hinweg die Sünde der Welt,</td>
+    </tr>
+    <tr>
+        <td>dona nobis pacem.<sup><button ondblclick="window.LIA.lineGoto(435);" onclick="window.LIA.showFootnote(&quot;1&quot;);" aria-describedby="footnote-1" tabindex="0" style="padding: 2px;" class="lia-btn lia-btn--transparent text-highlight" id="footnote-key-1">[1]</button></sup></td>
+        <td>gib uns deinen Frieden.</td>
     </tr>
 </table>
 </lia-keep>
 
 ----
 
-**Besonderheit:** Bei der *Missa de profunctis* ("Requiem" / "Totenmesse") wird bei der dritten Wiederholung folgender Text verwendet: *dona eis requiem* ("gib ihnen deinen Frieden")
+[^1]: **Besonderheit:** Bei der *Missa de profunctis* ("Requiem" / "Totenmesse") wird bei der dritten Wiederholung folgender Text verwendet: *dona eis requiem* ("gib ihnen Ruhe")
 
-## Ablauf der Eucharistiefeier
+## Eucharistiefeier
 
-Eucharistiefeier an gewöhnlichen Sonntagen (heute)[^1]
+Die Messe wird auch als Eucharistiefeier bezeichnet. Gleichzeitig steht der Begriff Eucharistiefeier auch für die Eucharistische Liturgie, die einen zentralen Teil der Messfeier bildet.
+
+### Ablauf (heute)
+
+Eucharistiefeier an gewöhnlichen Sonntagen[^1]
+
+---
 
 **Eröffnungsriten**
 
-|    | Gesang    | Bemerkungen   |
-| :--------- | :--------- | :--------- |
-| Einzug und Begrüßung des Altares     | Introitus     | Proprium     |
-| Kreuzzeichen und Liturgischer Gruß | | Der Herr sei mit euch – Und mit deinem Geiste, ggf. Statio (kurze Einführung)|
-| Bußakt oder Taufgedächtnis | | kann entfallen / mit Kyrie verbunden werden |
-| | Kyrie | Ordinarium |
-| | Gloria | Ordinarium |
-| Tagesgebet | | | Oration |
+---
+
+<lia-keep>
+<table>
+    <tr>
+        <th width="30%">Handlung</th>
+        <th width="30%">Gesang</th>
+        <th width="40%">Bemerkungen</th>
+    </tr>
+    <tr>
+        <td>Einzug und Begrüßung des Altares</td>
+        <td>Introitus</td>
+        <td>Proprium</td>
+    </tr>
+    <tr>
+        <td>Kreuzzeichen und Liturgischer Gruß</td>
+        <td></td>
+        <td>Der Herr sei mit euch – Und mit deinem Geiste, ggf. Statio (kurze Einführung)</td>
+    </tr>
+    <tr>
+        <td>Bußakt oder Taufgedächtnis</td>
+        <td></td>
+        <td>kann entfallen / mit Kyrie verbunden werden</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Kyrie</td>
+        <td>Ordinarium</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Gloria</td>
+        <td>Ordinarium</td>
+    </tr>
+    <tr>
+        <td>Tagesgebet</td>
+        <td></td>
+        <td>Oration</td>
+    </tr>
+</table>
+</lia-keep>
+
+---
 
 **Liturgie des Wortes (Wortgottesdienst)**
 
-|    | Gesang    | Bemerkungen   |
-| :--------- | :--------- | :--------- |
-| 1. Lesung |  |  |
-| Antwortpsalm | Graduale (statt Antwortpsalm) |  |
-| 2. Lesung |  |  |
-|  | Halleluja mit Vers |  |
-| Evangelium |  |  |
-| Homilie |  | (Predigt) |
-|  | Credo | Ordinarium |
-| Allgemeines Gebet |  | Ohne feste Textvorlage |
+---
+
+<lia-keep>
+<table>
+    <tr>
+        <th width="30%">Handlung</th>
+        <th width="30%">Gesang</th>
+        <th width="40%">Bemerkungen</th>
+    </tr>
+    <tr>
+        <td>1. Lesung</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Antwortpsalm</td>
+        <td>Graduale (statt Antwortpsalm)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2. Lesung</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Halleluja mit Vers</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Evangelium</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Homilie</td>
+        <td></td>
+        <td>(Predigt)</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Credo</td>
+        <td>Ordinarium</td>
+    </tr>
+    <tr>
+        <td>Allgemeines Gebet</td>
+        <td></td>
+        <td>Ohne feste Textvorlage</td>
+    </tr>
+</table>
+</lia-keep>
+
+---
 
 **Eucharistische Liturgie (Eucharistiefeier)**
 
-|    | Gesang    | Bemerkungen   |
-| :--------- | :--------- | :--------- |
-| Gabenbereitung | Offertorium | Proprium |
-| Gabengebet |  | Oration |
-| Eucharistisches Hochgebet |  |  |
-| Gebet des Herren |  | „Vaterunser“ |
-| Friedensritus |  |  |
-| Brotbrechung | Agnus Dei | Ordinarium |
-| Vorbereitungsgebet |  | Herr, ich bin nicht würdig... (vgl. Mt 8,8) |
-| Kommunion | Communio | Proprium |
-| Dankhymnus |  | Kann frei gewählt werden, kann auch entfallen |
-| Schlussgebet |  | Oration |
+---
+
+<lia-keep>
+<table>
+    <tr>
+        <th width="30%">Handlung</th>
+        <th width="30%">Gesang</th>
+        <th width="40%">Bemerkungen</th>
+    </tr>
+    <tr>
+        <td>Gabenbereitung</td>
+        <td>Offertorium</td>
+        <td>Proprium</td>
+    </tr>
+    <tr>
+        <td>Gabengebet</td>
+        <td></td>
+        <td>Oration</td>
+    </tr>
+    <tr>
+        <td>Eucharistisches Hochgebet</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Gebet des Herren</td>
+        <td></td>
+        <td>„Vaterunser"</td>
+    </tr>
+    <tr>
+        <td>Friedensritus</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Brotbrechung</td>
+        <td>Agnus Dei</td>
+        <td>Ordinarium</td>
+    </tr>
+    <tr>
+        <td>Vorbereitungsgebet</td>
+        <td></td>
+        <td>Herr, ich bin nicht würdig... (vgl. Mt 8,8)</td>
+    </tr>
+    <tr>
+        <td>Kommunion</td>
+        <td>Communio</td>
+        <td>Proprium</td>
+    </tr>
+    <tr>
+        <td>Dankhymnus</td>
+        <td></td>
+        <td>Kann frei gewählt werden, kann auch entfallen</td>
+    </tr>
+    <tr>
+        <td>Schlussgebet</td>
+        <td></td>
+        <td>Oration</td>
+    </tr>
+</table>
+</lia-keep>
+
+
+---
 
 **Abschlussriten**
 
-|    | Gesang    | Bemerkungen   |
-| :--------- | :--------- | :--------- |
-| Segen |  | Vor dem Segen ggf. Mitteilungen |
-| Entlassung |  | Lateinisch *Ite missa est* („Gehet hin in Frieden“) |
-| Auszug |  | Gesang (ggf. auch vor dem Segen), Instrumentalmusik, Schweigen |
+---
+
+<lia-keep>
+<table>
+    <tr>
+        <th width="30%">Handlung</th>
+        <th width="30%">Gesang</th>
+        <th width="40%">Bemerkungen</th>
+    </tr>
+    <tr>
+        <td>Segen</td>
+        <td></td>
+        <td>Vor dem Segen ggf. Mitteilungen</td>
+    </tr>
+    <tr>
+        <td>Entlassung</td>
+        <td></td>
+        <td>Lateinisch <em>Ite missa est</em> („Gehet hin in Frieden")</td>
+    </tr>
+    <tr>
+        <td>Auszug</td>
+        <td></td>
+        <td>Gesang (ggf. auch vor dem Segen), Instrumentalmusik, Schweigen</td>
+    </tr>
+</table>
+</lia-keep>
 
 [^1]: Einen Überblick über die Struktur der heute üblichen Messe findet sich bei Liborius Olaf Lumma: *Kapitel 4 Ablauf der Eucharistiefeier – Liturgie des Wortes*, in: Ders. *Crashkurs Liturgie*, Regensburg ^5^2024, S. 48–63.
   
@@ -482,204 +651,3 @@ Eucharistiefeier an gewöhnlichen Sonntagen (heute)[^1]
 Die allgemeinen Texte zur Eucharistiefeier sind sehr umfangreich. Auch wenn sie im Grunde – ähnlich dem Ordinarium – fest stehen, variieren diese je nach Zeit im Kirchenjahr und Tageszeit. Auch lokale Gegebenheiten (Heilige, Schutzpatrone, andere Besonderheiten) können Einfluss auf die Ausführung haben. Aufgrund der hohen Variatbilität, die jedoch nicht zufällig ist, sind diese Texte im sogenannten Messbuch ("missale") festgehalten.
 
 Überblick über [Allgemeine Messtexte](https://www.redemptoristen.com/fileadmin/_migrated/content_uploads/Eigenfeiern_Allgemeine_Messtexte.pdf).
-
-## Die Messe im Kirchenjahr
-
-!['Grafische Darstellung des Kirchenjahrs'](https://www.erzbistum-muenchen.de/cms-media/media-61400701.jpg)
-
-!?['Erklärfilm zum Kirchenjahr'](https://youtu.be/QD_iknLb218 "Erklärvideo zum Kirchenjahr, Erzbistum München")
-
-Einen Überblick über die Struktur des Kirchenjahres findet sich bei Lumma in Kapitel 10[^1]
-
-### Weihnachtskreis
-
-*(Tabelle zitiert nach Lumma[^1], S. 137.)*
-
-<lia-keep>
-<table>
-    <tr>
-      <th style="width: 30%;">Zeitpunkt</th>
-      <th style="width: 60%;">Bezeichnung</th>
-    </tr>
-    <tr>
-        <td>4. Sonntag vor dem 25. Dez.</td>
-        <td>1. Advent, <a href="https://youtu.be/N7mWXJZQXFI"><em>Ad te levavi</em></a>, Beginn der
-            Adventszeit (Psalm 25 "Ad te levavi animam meam" – "Zur dir erhebe ich meine
-            Seele")</td>
-    </tr>
-    <tr>
-        <td>3. Sonntag vor dem 25. Dez.</td>
-        <td>2. Advent, <a href="https://youtu.be/BZ0XJQObjfs"><em>Populus Sion</em></a> </td>
-    </tr>
-    <tr>
-        <td>2. Sonntag vor dem 25. Dez.</td>
-        <td>3. Advent, <a href="https://youtu.be/0ntoh3JtTdM"><em>Gaudete</em></a> ("Freut euch", ggf.
-            rosa)</td>
-    </tr>
-    <tr>
-        <td>Sonntag vor dem 25. Dez.</td>
-        <td>4. Advent, <a href="https://youtu.be/6_ZIAr86J6E"><em>Rorate</em></a></td>
-    </tr>
-    <tr>
-        <td>24. Dezember</td>
-        <td>Heiligabend (kann heute mit dem 24. Dez. zusammenfallen)</td>
-    </tr>
-    <tr>
-        <td>25. Dezember</td>
-        <td>Hochfest der Geburt des Herrn (Weihnachten) (Lk 2,1–14; Joh 1,1–18), Beginn der
-            Weihnachtszeit, Beginn der Weihnachtsoktav</td>
-    </tr>
-    <tr>
-        <td>Weihnachtsoktav</td>
-        <td>Weitere Feste: Stephanus (26. Dez.), Johannes (27. Dez.), Unschuldige Kinder
-            (28. Dez.), Fest de rHeiligen Familie (Sonntag der Weihnachtsoktav oder 30.
-            Dez.)</td>
-    </tr>
-    <tr>
-        <td>1. Januar</td>
-        <td>Oktavtag von Weihnachten, Hochfest der Gottesmutter Maria, Evangelium von der
-            Beschneidung und Namensgebung Jesu (Lk 2,21)</td>
-    </tr>
-    <tr>
-        <td>6. Januar</td>
-        <td>Hochfest der Erscheinung des Herrrn (Epiphanie, Mt 2,1–12)</td>
-    </tr>
-    <tr>
-        <td>Sonntag nach dem 6. Januar</td>
-        <td>Fest der Taufe des Herrn (Lk 3,21–22), Abschluss der Weihnachtszeit, Beginn der
-            1. Woche im Jahreskreis</td>
-    </tr>
-</table>
-</lia-keep>
-
-[^1]: Liborius Olaf Lumma: *Kapitel 10 Kirchenjahr*, in: Ders. *Crashkurs Liturgie*, Regensburg ^5^2024, S. 128–143.
-
-#### Herrenfeste im Zusammenhang mit Weihnachten
-
-*(Tabelle zitiert nach Lumma[^1], S. 137.)*
-
-<lia-keep>
-<table>
-    <tr>
-        <th style="width: 30%;">Zeitpunkt</th>
-        <th style="width: 60%;">Bezeichnung</th>
-    </tr>
-    <tr>
-        <td>2. Februar</td>
-        <td>Darstellung des Herrn (Lk 2,22–40, 40. Tag seit Weihanchten)</td>
-    </tr>
-    <tr>
-        <td>25. März</td>
-        <td>Verkündigung des Herrn (Lk 1,26–38), 9 Monate vor Weihnachten</td>
-    </tr>
-</table>
-</lia-keep>
-
-[^1]: Liborius Olaf Lumma: *Kapitel 10 Kirchenjahr*, in: Ders. *Crashkurs Liturgie*, Regensburg ^5^2024, S. 128–143.
-
-### Osterkreis
-
-*(Tabelle zitiert nach Lumma[^1], S. 129.)*
-
-<lia-keep>
-<table>
-    <tr>
-        <th width="40%">Zeitpunkt</th>
-        <th width="60%">Bezeichnung</th>
-    </tr>
-    <tr>
-        <td>40 (Werk-)Tage vor Ostern</td>
-        <td>Aschermittwoch, Beginn der Österlichen Bußzeit</td>
-    </tr>
-    <tr>
-        <td>-6 Wochen</td>
-        <td>1. Sonntag der Österl. Bußzeit, *Invocabit*</td>
-    </tr>
-    <tr>
-        <td>-5 Wochen</td>
-        <td>2. Sonntag der Österl. Bußzeit, *Reminiscere*</td>
-    </tr>
-    <tr>
-        <td>-4 Wochen</td>
-        <td>3. Sonntag der Österl. Bußzeit, *Okuli*</td>
-    </tr>
-    <tr>
-        <td>-3 Wochen</td>
-        <td>4. Sonntag der Österl. Bußzeit, *Laetare* ("Freue dich", ggf. rosa, Jes 66,10–11)</td>
-    </tr>
-    <tr>
-        <td>-2 Wochen</td>
-        <td>5. Sonntag der Österl. Bußzeit, *Judica*</td>
-    </tr>
-    <tr>
-        <td>-1 Woche</td>
-        <td>Palmsonntag, *Palmarum*, Beginn der Heiligen Woche (Lk 19,28-40)</td>
-    </tr>
-    <tr>
-        <td>Donnerstag der Hl. Woche</td>
-        <td>Hoher Donnerstag (Gründonnerstag) (1. Kor 23–26; Joh 13,1–15), Beginn des Österlichen Triduums</td>
-    </tr>
-    <tr>
-        <td>Freitag der Hl. Woche</td>
-        <td>Karfreitag (Joh 18–19)</td>
-    </tr>
-    <tr>
-        <td>Samstag der Heiligen Woche</td>
-        <td>Karsamstag</td>
-    </tr>
-    <tr>
-        <td>Sonntag nach dem ersten Frühlingsvollmond</td>
-        <td>Hochfest der Auferstehung Jesu Christi (Ostersonntag) (Lk 24,1–12), Beginn der Osteroktav, Beginn der Osterzeit</td>
-    </tr>
-    <tr>
-        <td>+1 Woche</td>
-        <td>2. Ostersonntag (Weißer Sonntag)</td>
-    </tr>
-    <tr>
-        <td>+2 Wochen</td>
-        <td>3. Ostersonntag</td>
-    </tr>
-    <tr>
-        <td>+3 Wochen</td>
-        <td>4. Ostersonntag</td>
-    </tr>
-    <tr>
-        <td>+4 Wochen</td>
-        <td>5. Ostersonntag</td>
-    </tr>
-    <tr>
-        <td>+5 Wochen</td>
-        <td>6. Ostersonntag</td>
-    </tr>
-    <tr>
-        <td>Donnerstag</td>
-        <td>Christi Himmelfahrt (Lk 24,46–53)</td>
-    </tr>
-    <tr>
-        <td>+6 Wochen</td>
-        <td>7. Ostersonntag</td>
-    </tr>
-    <tr>
-        <td>+7 Wochen</td>
-        <td>Hochfest des Heiligen Geisttes (Pfingsten) (Apg 2,1–11), Abschluss der Osterzeit</td>
-    </tr>
-    <tr>
-        <td>+8 Wochen</td>
-        <td>Hochfest der Dreifaltigkeit (seit 9. Jhd.)</td>
-    </tr>
-    <tr>
-        <td>Donnerstag</td>
-        <td>Hochfest des Leibes und Blutes Christi (Fronleichnam), sei. 13. Jhd.</td>
-    </tr>
-    <tr>
-        <td>+9 Wochen</td>
-        <td>Sonntag im Jahreskreis</td>
-    </tr>
-    <tr>
-        <td>Freitag</td>
-        <td>Hochfest des Heiligsten Herzen Jesu, seit dem 17./19. Jhd.</td>
-    </tr>
-</table>
-</lia-keep>
-
-[^1]: Liborius Olaf Lumma: *Kapitel 10 Kirchenjahr*, in: Ders. *Crashkurs Liturgie*, Regensburg ^5^2024, S. 128–143.
