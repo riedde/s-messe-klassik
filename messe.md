@@ -590,7 +590,7 @@ Eucharistiefeier an gewöhnlichen Sonntagen[^1]
     <tr>
         <td>Vorbereitungsgebet</td>
         <td></td>
-        <td>Herr, ich bin nicht würdig... (vgl. Mt 8,8)</td>
+        <td>Herr, ich bin nicht würdig... (vgl. [Mt 8,8](https://www.die-bibel.de/bibel/EUE/MAT.8.8))</td>
     </tr>
     <tr>
         <td>Kommunion</td>
