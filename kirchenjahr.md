@@ -146,7 +146,7 @@ Einen detaillierteren Überblick mit Erläuterungen über die Struktur des Kirch
     </tr>
     <tr>
         <td>-1 Woche</td>
-        <td>Palmsonntag, *Palmarum*, Beginn der Heiligen Woche ([Lk 19,28-40](https://www.die-bibel.de/bibel/EUE/LUK.19.28-LUK.19.409))</td>
+        <td>Palmsonntag, *Palmarum*, Beginn der Heiligen Woche ([Lk 19,28-40](https://www.die-bibel.de/bibel/EUE/LUK.19.28-LUK.19.40))</td>
     </tr>
     <tr>
         <td>Donnerstag der Hl. Woche</td>
