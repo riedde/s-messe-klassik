@@ -150,7 +150,7 @@ Einen detaillierteren Überblick mit Erläuterungen über die Struktur des Kirch
     </tr>
     <tr>
         <td>Donnerstag der Hl. Woche</td>
-        <td>Hoher Donnerstag (Gründonnerstag) (1. Kor 23–26 <!-- gemeint ist wohl 1. Kor 1,23-26? (https://www.die-bibel.de/bibel/EUE/1CO.1.23-1CO.1.26) -->; [Joh 13,1–15](https://www.die-bibel.de/bibel/EUE/JHN.13.1-JHN.13.15)), Beginn des Österlichen Triduums</td>
+        <td>Hoher Donnerstag (Gründonnerstag) ([Joh 13,1–15](https://www.die-bibel.de/bibel/EUE/JHN.13.1-JHN.13.15)), Beginn des Österlichen Triduums</td>
     </tr>
     <tr>
         <td>Freitag der Hl. Woche</td>
