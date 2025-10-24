@@ -5,8 +5,6 @@ version: 1.0.0
 language: de
 narrator: Deutsch Female
 import: ./config.md
-link: ./style.css
-icon: https://wcms.itz.uni-halle.de/download.php?down=57357&elem=3333420
 tags: kirchenjahr, liturgie
 -->
 
