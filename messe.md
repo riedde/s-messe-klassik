@@ -22,7 +22,7 @@ Das *Tridentinische Konzil* (1545–1563 in Trient) wurde in drei Tagungsperiode
 - Bekräftigung der Zentralstellung des **Messopfers**: Im Messopfer wird das Sühneopfer Christi gegenwärtig gemacht und von Christus selbst durch den Dienst des Priesters dargebracht
 - **Der Kanon der Liturgie** wurde als "frei von jedem Irrtum" festgestellt (4. Kapitel, Sessio XXII)
 - **Privatmessen** blieben weiterhin erlaubt
-- Der **Gebrauch der Volkssprache** wurde als unangebracht abgewiesen - Latein blieb die liturgische Sprache
+- Der **Gebrauch der Volkssprache** wurde als unangebracht abgewiesen – Latein blieb die liturgische Sprache
 - Die **Kommunion unter beiderlei Gestalten** (Brot und Wein) wurde für Laien nicht als notwendig erklärt
 
 ### Praktische Auswirkungen auf die Kirchenarchitektur und Musikpraxis
